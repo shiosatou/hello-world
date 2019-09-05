@@ -21,8 +21,6 @@
 title: Shiosatou's Ami Ryou
 email: shiosatou@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
-  寫作汐留砂糖。
-  砂糖と呼んでね！２３歳、学生です
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
